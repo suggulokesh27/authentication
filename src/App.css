@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.btn{
+  border: solid 1px #1976d2;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.btn:active {
+  background-color: #1976d2;
+}
+
+.btn_atv{
+  border: solid 1px #1976d2;
+  border-radius: 3px;
+  background-color: #1976d2;
+  color: white
+
+}
+
